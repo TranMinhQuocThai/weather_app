@@ -1,9 +1,89 @@
+ỨNG DỤNG THỜI TIẾT
+1/Trang chủ
 
-<body>
-    <div class="container">
-        <h1>Ứng dụng Thời tiết</h1>
-        <p>Ứng dụng thời tiết giúp bạn cập nhật thông tin thời tiết chính xác nhất theo thời gian thực.</p>
-        <p>Dữ liệu được lấy từ API thời tiết đáng tin cậy, giúp bạn chuẩn bị tốt nhất cho mọi điều kiện thời tiết.</p>
-        <a href="https://github.com/yourusername/weather-app" class="btn" target="_blank">Xem trên GitHub</a>
-    </div>
-</body>
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/f2eaa251-a206-4287-979c-ddd0c22e8a22)
+
+
+
+
+
+
+
+
+
+-	Trang chủ sẽ hiển thị thông tin thời tiết tại Khu vực mà người dùng muốn xem, hiển thị các số liệu như nhiệt độ, trạng thái, độ ẩm và chỉ số UV tại nơi đó.
+-	Phía dưới còn có một khoảng dự báo thời tiết tại khu vực đó trong 7 ngày tới.
+2/ Trang thời tiết khu vực khác
+
+
+
+![image](https://github.com/user-attachments/assets/e4b51e0c-f59e-4a2c-b415-287f7046b652)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-	Trang khu vực khác có tác dụng cho người dùng xem các khu vực, tỉnh thành khác trên toàn Việt Nam. Trang này sẽ hiển thị toàn bộ 63 tỉnh thành của Việt Nam. Hiển thị nhiệt độ hiện tại nhiệt độ cao nhất và nhiệt độ thấp nhất trong ngày.
+3/Trang biểu đồ 
+
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-	Trang biểu đồ sẽ giúp cho người dùng xem biểu đồ nhiệt tại khu vực mà người dùng muốn xem. Nó sẽ thể hiện nhiệt độ tại khu vực đó trong nhiều ngày và biểu đồ nhiệt để người dùng có thể xem ngày nào có nhiệt độ cao và ngày nào có nhiệt độ nóng.
